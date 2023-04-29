@@ -9,7 +9,7 @@ function Projects() {
                 <div className='md:w-full grid md:grid-cols-3 grid-cols-1'>
                     <div className='mr-5 justify-between shadow-lg shadow-grey-800'>
                         <h1 className='text-2xl tracking-widest border-b-2 mb-2'>E-Commerce Website</h1>
-                        <Image className='border-b-2' src='/../public/assets/EComProject.png' width={400} height={500}></Image>
+                        <Image className='border-b-2' src='/assets/EComProject.png' width={400} height={500}></Image>
                         <div className='flex justify-between items-center mt-2 '>
                             <Link href='https://github.com/milangupta95/E-Commerce' className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded-full">
                                 Code
@@ -21,7 +21,7 @@ function Projects() {
                     </div>
                     <div className='p-2 mr-5 shadow-lg shadow-grey-800'>
                         <h1 className='text-2xl tracking-widest border-b-2 mb-2'>IMDB Clone</h1>
-                        <Image className='border-b-2' src='/../public/assets/MovieApp.png' width={400} height={500}></Image>
+                        <Image className='border-b-2' src='/assets/MovieApp.png' width={400} height={500}></Image>
                         <div className='flex justify-between items-center mt-2 '>
                             <Link href='#' className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded-full">
                                 Code

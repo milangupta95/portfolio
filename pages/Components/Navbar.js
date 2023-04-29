@@ -12,7 +12,7 @@ function Navbar() {
     return (
         <div className='fixed top-0 h-20 bg-slate-100 w-full shadow-lg shadow-gray-800 z-[100]'>
             <div className='pr-2 flex justify-between items-center'>
-                <Image src='/../public/assets/logo.png' height={60} width={80}></Image>
+                <Image src='/assets/logo.png' height={60} width={80}></Image>
                 <ul className='hidden md:flex'>
                     <Link href='/'>
                         <li className='uppercase ml-10 text-xl hover:border-b-2'>Home</li>
@@ -36,7 +36,7 @@ function Navbar() {
             </div>
             <div className={nav ? 'md:hidden fixed left-0 top-0 h-screen md:w-[40%] sm:w-[60%] bg-slate-100' : 'hidden'}>
                 <div className='flex justify-between items-center pr-5'>
-                    <Image src='/../public/assets/logo.png' height={60} width={80}></Image>
+                    <Image src='/assets/logo.png' height={60} width={80}></Image>
                     <div className='cursor-pointer rounded-xl shadow-xl shadow-grey-800 bg-slate-300 p-1' onClick={handleNav}>
                         <AiOutlineClose></AiOutlineClose>
                     </div>

@@ -19,7 +19,7 @@ function About() {
                 </p>
             </div>
             <div className='width-200 rounded-lg shadow-lg shadow-grey-500 p-5 cursor-pointer mr-10'>
-                <Image src='/../public/assets/AboutImage.jpg' width={1500} height={1500}/>
+                <Image src='/assets/AboutImage.jpg' width={1500} height={1500}/>
             </div>
         </div>
     )

@@ -41,7 +41,7 @@ function ContactUs() {
                 <p className='text-5xl tracking-widest text-sky-600'>Contact</p>
                 <div className='flex md:flex-row flex-col justify-between items-center'>
                     <div className='p-2  shadow-lg shadow-grey-800'>
-                        <Image src="/../public/assets/Contact.jpg" height={500} width={400} />
+                        <Image src="/assets/Contact.jpg" height={500} width={400} />
                         <div>
                             <p className='text-xl tracking-widest'>Milan Kumar Gupta</p>
                             <p className='text-xl tracking-widest'>Full-Stack Developer</p>
