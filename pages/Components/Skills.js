@@ -2,6 +2,7 @@ import React from 'react'
 import Image from 'next/image'
 function Skills() {
   return (
+    /* Hello There */
     <div className='px-2 flex flex-col w-full md:h-screen h-full md:px-20 pt-32' id='skills'>
         <h1 className='text-5xl text-sky-600 mb-10 tracking-widest'>Skills</h1>
         <div className='grid lg:grid-cols-4 gap-4 sm:grid-cols-1 md:grid-cols-2'>
