@@ -6,7 +6,7 @@ function Skills() {
         <h1 className='text-5xl text-sky-600 mb-10 tracking-widest'>Skills</h1>
         <div className='grid lg:grid-cols-4 gap-4 sm:grid-cols-1 md:grid-cols-2'>
             <div className='rounded-lg bg-white mb-30'>
-                <Image src='/asset/HTMLLogo.png' height={400} width={400}></Image>
+                <Image src='https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vectorlogo.zone%2Flogos%2Fw3_html5%2Findex.html&psig=AOvVaw2J8oepGsx9fkXjBMEuWdw0&ust=1682881784820000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMio0Knlz_4CFQAAAAAdAAAAABAE' height={400} width={400}></Image>
             </div>
             <div className='rounded-lg bg-white mb-30'>
                 <Image src='/assets/CSSLogo.png' height={400} width={400}></Image>
@@ -18,7 +18,7 @@ function Skills() {
                 <Image src='/assets/ReactLogo.png' height={400} width={400}></Image>
             </div>
             <div className='rounded-lg mb-30'>
-                <Image src='/assets/NodeJsLogo.png' height={400} width={400}></Image>
+                <Image src='https://www.google.com/url?sa=i&url=https%3A%2F%2Ficon-library.com%2Ficon%2Fnodejs-icon-2.html&psig=AOvVaw1jOjUpOh62fKhmKmbUCjB3&ust=1682881818753000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMizxrnlz_4CFQAAAAAdAAAAABAR' height={400} width={400}></Image>
             </div>
             <div className='rounded-lg mb-30'>
                 <Image src='/assets/ExpressLogo.png' height={400} width={400}></Image>
